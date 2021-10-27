@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @Whomaniana
-- 👀 I’m interested in photography
-- 🌱 I’m currently learning web development
-- Omooi ~
